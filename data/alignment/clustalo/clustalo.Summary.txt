@@ -1,0 +1,16 @@
+Name of input file ............................................ alignment/clustalo/Norovirus_clustalo_.fst
+Type of data .................................................. Amino acids (AA)
+Characters used ............................................... ACDEFGHIKLMNPQRSTVWY
+Number of sequences in the alignment    ....................... 9
+Number of sites in the alignment    ........................... 2618
+Pairs of sequences ............................................ 36
+Completeness (C) score for the alignment    (Ca) .............. 0.674985
+Maximum C-score for individual sequences (Cr_max) ............. 0.760504
+Minimum C-score for individual sequences (Cr_min) ............. 0.643621
+Maximum C-score for individual sites (Cc_max) ................. 1
+Minimum C-score for individual sites (Cc_min) ................. 0.111111
+Maximum C-score for pairs of sequences (Cij_max, i!=j) ........ 0.654316
+Minimum C-score for pairs of sequences (Cij_min, i!=j) ........ 0.527502
+
+Triangular heatmap for individual pairs of seqs (Cij) in ...... alignment/clustalo/clustalo.Triangular.svg
+Rectangular heatmap for individual pairs of seqs (Cij) in ..... alignment/clustalo/clustalo.Full.svg

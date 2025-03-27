@@ -1,0 +1,16 @@
+Name of input file ............................................ alignment/mafft/Norovirus_mafft.fst
+Type of data .................................................. Amino acids (AA)
+Characters used ............................................... ACDEFGHIKLMNPQRSTVWY
+Number of sequences in the alignment    ....................... 9
+Number of sites in the alignment    ........................... 2719
+Pairs of sequences ............................................ 36
+Completeness (C) score for the alignment    (Ca) .............. 0.649912
+Maximum C-score for individual sequences (Cr_max) ............. 0.732255
+Minimum C-score for individual sequences (Cr_min) ............. 0.619713
+Maximum C-score for individual sites (Cc_max) ................. 1
+Minimum C-score for individual sites (Cc_min) ................. 0.111111
+Maximum C-score for pairs of sequences (Cij_max, i!=j) ........ 0.626701
+Minimum C-score for pairs of sequences (Cij_min, i!=j) ........ 0.495771
+
+Triangular heatmap for individual pairs of seqs (Cij) in ...... alignment/mafft/mafft.Triangular.svg
+Rectangular heatmap for individual pairs of seqs (Cij) in ..... alignment/mafft/mafft.Full.svg
