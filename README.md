@@ -7,3 +7,4 @@ SatuRation v.1.0 https://github.com/lsjermiin/SatuRation.v1.0
 SatuRationHeatMapper v.1.0 https://github.com/ZFMK/SatuRationHeatMapper/tree/master   
 Homo v.2.1 https://github.com/lsjermiin/Homo.v2.1   
 iqtree2 v.2.4.0 https://github.com/iqtree/iqtree2   
+FigTree v.1.4.4 https://tree.bio.ed.ac.uk/software/figtree/
